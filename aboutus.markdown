@@ -3,9 +3,9 @@ layout: page
 title: 关于我们
 ---
 
-# 大美女
+# <center> 大美女
 
-![刘宇欣](/assets/img/美女.jpg)
+![刘宇欣](/assets/img/美女.jpg){: .mx-auto.d-block :}
 
 ## 经期
 
@@ -75,9 +75,9 @@ title: 关于我们
 
 紫外线，草，七度空间姨妈巾
 
-# 大帅哥
+# <center> 大帅哥
 
-![邓陈龙](/assets/img/帅哥.jpg)
+![邓陈龙](/assets/img/帅哥.jpg){: .mx-auto.d-block :}
 
 ## 爱好
 

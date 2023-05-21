@@ -2,7 +2,8 @@
 layout: post
 title:  "欢迎来到我们的小窝！"
 date:   2023-05-20 00:00:00 +0800
-categories: 刘宇欣❤️邓陈龙 时空回廊
+thumbnail-img: /assets/img/爱情小屋.jpg
+tags: [记录]
 ---
 
-![hello](/assets/img/hello_world.jpeg)
+![hello](/assets/img/hello_world.jpeg){: .mx-auto.d-block :}
